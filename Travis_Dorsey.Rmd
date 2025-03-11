@@ -36,7 +36,7 @@ jpmc <- "JPMorgan Chase"
 ### Job Duties
 
 sba_duties <- c("Applied causal and correlational econometric models, such as Difference-in-Difference, to study economic impact of SBA programs.",
-                "Utilized Random Forest and Survival Regresssion models to identify lower-risk sections of the portfolio that could streamline processing to significantly cut processing time while limiting risk.",
+                "Utilized Random Forest and Survival Regression models to identify lower-risk sections of the portfolio that could streamline processing to significantly cut processing time while limiting risk.",
                 "Developed complex, risk-based stratified sampling plans for all SBA Certification programs covering over 50,000 program participants.",
                 "Led and mentored a team of data scientists, assigning tasks and ensuring high quality and timeliness of deliverables.",
                 "Conceived and managed a research project to forecast new SBA loans each month using machine learning models such as XGBoost that leveraged both SBA data and external data.")
